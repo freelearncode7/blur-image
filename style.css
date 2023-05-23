@@ -1,0 +1,26 @@
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    background: url('alex_from_middle_earth_a_beautiful_artwork_illustration_rainy_m_4aeb2a40-f97c-4b78-b986-58b666007acb.png');
+    height: 90vh;
+    width: 100%;
+    background-attachment: fixed;
+    background: cover;
+    background-image: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.124);
+    backdrop-filter: blur(10px);
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: white;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
